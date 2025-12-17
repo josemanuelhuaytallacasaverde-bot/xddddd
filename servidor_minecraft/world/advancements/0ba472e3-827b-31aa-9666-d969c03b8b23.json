@@ -1,0 +1,416 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_cross_recipe": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:root": {
+    "criteria": {
+      "root_0": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-12-13 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-12-13 02:20:47 +0000",
+      "minecraft:taiga": "2025-12-13 02:10:33 +0000",
+      "minecraft:deep_ocean": "2025-12-13 03:40:26 +0000",
+      "minecraft:frozen_river": "2025-12-13 02:34:27 +0000",
+      "minecraft:birch_forest": "2025-12-16 04:04:27 +0000",
+      "minecraft:beach": "2025-12-13 02:19:09 +0000",
+      "minecraft:dark_forest": "2025-12-17 02:49:56 +0000",
+      "minecraft:river": "2025-12-13 02:19:23 +0000",
+      "minecraft:snowy_plains": "2025-12-13 02:31:18 +0000",
+      "minecraft:stony_shore": "2025-12-13 02:29:04 +0000",
+      "minecraft:snowy_taiga": "2025-12-13 02:31:19 +0000",
+      "minecraft:grove": "2025-12-13 02:31:07 +0000",
+      "minecraft:cold_ocean": "2025-12-13 03:27:02 +0000",
+      "minecraft:forest": "2025-12-13 02:09:50 +0000",
+      "minecraft:deep_cold_ocean": "2025-12-13 03:39:37 +0000",
+      "minecraft:ocean": "2025-12-13 03:49:26 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-12-13 02:21:43 +0000",
+      "minecraft:meadow": "2025-12-13 02:31:16 +0000",
+      "minecraft:plains": "2025-12-13 02:55:21 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-12-13 02:09:50 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-12-13 02:10:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-12-13 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-12-13 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-12-13 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:paladin_class": {
+    "criteria": {
+      "paladin_class_0": "2025-12-13 02:13:54 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-12-13 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-12-13 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-12-13 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-12-13 02:16:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-12-13 02:16:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-12-13 02:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-12-13 02:16:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-12-13 02:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-12-13 02:17:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-12-13 02:17:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-12-13 02:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2025-12-13 02:19:39 +0000",
+      "cooked_beef": "2025-12-13 02:58:37 +0000",
+      "bread": "2025-12-13 02:28:41 +0000",
+      "rotten_flesh": "2025-12-13 02:17:44 +0000",
+      "melon_slice": "2025-12-13 02:54:25 +0000",
+      "beetroot": "2025-12-13 02:58:29 +0000",
+      "carrot": "2025-12-13 02:42:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-13 02:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-12-13 03:09:53 +0000",
+      "minecraft:spider": "2025-12-13 02:42:09 +0000",
+      "minecraft:phantom": "2025-12-16 04:04:03 +0000",
+      "minecraft:enderman": "2025-12-13 03:18:50 +0000",
+      "minecraft:zombie": "2025-12-13 02:17:53 +0000",
+      "minecraft:drowned": "2025-12-13 03:36:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-12-13 02:17:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-12-13 02:17:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-12-13 02:17:59 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:mysticsbiomes/root": {
+    "criteria": {
+      "autumnal_grove": "2025-12-13 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-12-13 02:19:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-12-13 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-12-13 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-12-13 02:29:39 +0000"
+    },
+    "done": false
+  },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2025-12-13 02:30:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-12-13 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-12-13 02:36:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-12-13 02:36:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-12-13 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-12-13 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-12-13 02:39:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-12-13 02:41:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-12-13 02:43:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-12-13 02:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-12-13 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-12-13 02:57:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-12-13 03:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-12-13 03:09:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-12-13 03:09:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/flesh": {
+    "criteria": {
+      "has_ender_pearl": "2025-12-13 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2025-12-13 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2025-12-13 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-12-13 03:40:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-12-13 03:42:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-12-13 03:42:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2025-12-16 03:49:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-12-16 04:00:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-12-16 04:03:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-12-16 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
